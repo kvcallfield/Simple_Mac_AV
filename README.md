@@ -2,7 +2,7 @@
 A simple script that continuously scans MacOS and alerts on processes that contain certain strings - a poor man's A/V.
 
 In MacOS you can run this command by simply doing a:
-nohup ./simpleAV &
+nohup ./simpleAV.sh &
 
 Note: Don't forget to run it as root if you want to analyze all system processes!
 
